@@ -3,16 +3,13 @@ Create repository directly from your local folder to GitHub.
 
 ## install
 ```
-cd folder_you_wanna_upload_to_GitHub_as_a_New_Repository
-```
-```
 git clone https://github.com/shunak/tele-work.git
 ```
 ```
 cd tele-work
 ```
 ```
-cp telework.sh ../
+cp telework.sh ../folder_you_wanna_upload_to_GitHub_as_a_New_Repository; cd folder_you_wanna_upload_to_GitHub_as_a_New_Repository
 ```
 ## How to use
 run (ex. case your shell is bash)
