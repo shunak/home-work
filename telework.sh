@@ -12,7 +12,7 @@ curl -u $1 https://api.github.com/user/repos -d '{"name":"'$reposname'","descrip
 touch README.md
 echo "Now Editing..." >> README.md
 touch .gitignore
-echo "makerepos.sh" >> .gitignore
+echo "telework.sh" >> .gitignore
 git init
 git add .
 git commit -m "first commit"
