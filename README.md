@@ -1,7 +1,7 @@
 # tele-work
 Create repository directly from your local folder to GitHub.
 
-## install
+## Install
 ```
 git clone https://github.com/shunak/tele-work.git
 ```
