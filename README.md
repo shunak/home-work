@@ -6,6 +6,12 @@ At the folder you want to upload GitHub as a New Repository,
 ```
 git clone https://github.com/shunak/tele-work.git
 ```
+```
+cd tele-work
+```
+```
+cp telework.sh ../
+```
 ## How to use
 run (ex. case your shell is bash)
 ```
