@@ -2,7 +2,6 @@
 Create repository directly from your local folder to GitHub.
 
 ## install
-At the folder you want to upload to GitHub as a New Repository,
 ```
 cd folder_you_wanna_upload_to_GitHub_as_a_New_Repository
 ```
