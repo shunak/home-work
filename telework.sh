@@ -20,3 +20,9 @@ git branch -M master
 git remote add origin https://github.com/$1/${reposname}.git
 git push -u origin master
 
+echo "Deleting this script..."
+sleep 3
+
+rm ./telework.sh
+
+
