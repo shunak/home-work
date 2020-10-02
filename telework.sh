@@ -1,6 +1,6 @@
 #!/bin/bash
 if [ $# != 1 ]; then
-    echo "Error:Need your GitHub User name as one argument." $*
+    echo "Error: Need your GitHub User name as one argument." $*
     exit 1
 else
     echo "Start creating New Repository on your GitHub..."
