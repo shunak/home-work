@@ -9,7 +9,10 @@ git clone https://github.com/shunak/tele-work.git
 cd tele-work
 ```
 ```
-cp telework.sh ../folder_you_wanna_upload_to_GitHub_as_a_New_Repository; cd folder_you_wanna_upload_to_GitHub_as_a_New_Repository
+cp telework.sh ../folder_you_wanna_upload_to_GitHub_as_a_New_Repository
+```
+```
+cd folder_you_wanna_upload_to_GitHub_as_a_New_Repository
 ```
 ## How to use
 run (ex. case your shell is bash)
