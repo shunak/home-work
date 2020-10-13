@@ -13,7 +13,7 @@ curl -u $1 https://api.github.com/user/repos -d '{"name":"'$reposname'","descrip
 touch README.md
 echo "Now Editing..." >> README.md
 
-rm ./telework.sh
+rm ./homework.sh
 
 git init
 git add .
